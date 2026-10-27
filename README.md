@@ -22,7 +22,6 @@ My goal is to turn what I learn into practical applications, explore emerging AI
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/amjad-ali-ai/
 - Email: itsamajdali.67@gmail.com
 
 ---
